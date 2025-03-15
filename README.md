@@ -1,4 +1,7 @@
-## FTIMS Student
+## FTIMS Student 👩‍🎓
+https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white
+https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white
+https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=C++&logoColor=white
 
 <!--
 **kluczak12/kluczak12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

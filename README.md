@@ -1,12 +1,15 @@
 
+
 ## FTIMS Student 👩‍🎓
 **Languages**
 
 ![enter image description here](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white) ![enter image description here](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white) ![enter image description here](https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=C%20%20&logoColor=white)   ![enter image description here](https://img.shields.io/badge/XML-005FAD.svg?style=for-the-badge&logo=XML&logoColor=white) ![enter image description here](https://img.shields.io/badge/CSS-663399.svg?style=for-the-badge&logo=CSS&logoColor=white)
 
+
 **Coding programms**
 
-![enter image description here](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=for-the-badge&logo=IntelliJ-IDEA&logoColor=white) ![enter image description here](https://img.shields.io/badge/PyCharm-000000.svg?style=for-the-badge&logo=PyCharm&logoColor=white) ![enter image description here](https://img.shields.io/badge/CLion-000000.svg?style=for-the-badge&logo=CLion&logoColor=white) ![enter image description here](https://img.shields.io/badge/Code::Blocks-41AD48.svg?style=for-the-badge&logo=Code::Blocks&logoColor=white) ![enter image description here](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white) 
+![enter image description here](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=for-the-badge&logo=IntelliJ-IDEA&logoColor=white) ![enter image description here](https://img.shields.io/badge/PyCharm-000000.svg?style=for-the-badge&logo=PyCharm&logoColor=white) ![enter image description here](https://img.shields.io/badge/CLion-000000.svg?style=for-the-badge&logo=CLion&logoColor=white) ![enter image description here](https://img.shields.io/badge/Code::Blocks-41AD48.svg?style=for-the-badge&logo=Code::Blocks&logoColor=white)
+  
 
 **Graphic programms** 
 

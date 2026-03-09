@@ -20,11 +20,11 @@ I am an IT student at Lodz University of Technology (6th‑semester).<br>I enjoy
 ![](https://github-readme-stats.vercel.app/api?username=kluczak12&theme=material-palenight&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=kluczak12&theme=material-palenight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kluczak12&theme=material-palenight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
+<!--
 ### 🔝 Top Contributed Repo
 
 ![](https://github-contributor-stats.vercel.app/api?username=kluczak12&limit=5&theme=material-palenight&combine_all_yearly_contributions=true)
-
+-->
 
 ### 📊 Most Used Languages
 [![Top Langs](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=kluczak12&layout=compact&theme=material-palenight&count_private=true)](https://github.com/anuraghazra/github-readme-stats)

@@ -2,7 +2,7 @@
 
 # 💫 About Me:
 
-I am an IT student at Lodz University of Technology (6th‑semester).<br>I enjoy working with Python and Java.<br>I have experience with relational databases (MSSQL, PostgreSQL).<br>I am comfortable working both independently and as part of a team.<br>
+I am an Applied Computer Science student at Lodz University of Technology (6th‑semester).<br>I enjoy working with Python and Java.<br>I have experience with relational databases (MSSQL, PostgreSQL).<br>I am comfortable working both independently and as part of a team.<br>
 
   
   

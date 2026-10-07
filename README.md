@@ -17,12 +17,9 @@ I am an Applied Computer Science student at Lodz University of Technology (6thâ€
 ![enter image description here](https://img.shields.io/badge/Jira-0052CC.svg?style=for-the-badge&logo=Jira&logoColor=white) ![enter image description here](https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white)
 
 
-![](https://nirzak-streak-stats.vercel.app/?user=kluczak12&theme=material-palenight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kluczak12&theme=material-palenight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-![](https://github-contributor-stats.vercel.app/api?username=kluczak12&limit=5&theme=material-palenight&combine_all_yearly_contributions=true)
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=kluczak12&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
   
 
